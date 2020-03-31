@@ -10,6 +10,8 @@
 pip3 install -r requiresments.txt
 ```
 
+运行：
+
 ```html
 python HubbleSee.py
 ```
